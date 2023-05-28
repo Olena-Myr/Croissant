@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: rgb(152, 250, 159);
+  color: rgb(79, 79, 79);
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
+a {
+  margin: auto 20px;
+}
